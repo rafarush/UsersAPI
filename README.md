@@ -4,7 +4,7 @@
 
 <h3>Guia para hcaer APIs</h3>
 <code> from fastapi import FastAPI
-app = FastAPI()
+  app = FastAPI()
 </code>
 <p>
 Se inicia server con: uvicorn main:app --reload
