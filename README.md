@@ -9,6 +9,6 @@
 Se inicia server con: uvicorn main:app --reload
 La forma generica es: uvicorn '<nombreDelArchivoPython>:<nombreDeLaInstanciaFastApi>' <br>
 
-Documentacion con Swagger: http://127.0.0.1:8000/docs  <br>La forma generica: <url>/docs<br>
-Documentacion con Redocly: http://127.0.0.1:8000/redoc  <br>La forma generica: <url>/redoc<br>
+Documentacion con Swagger: http://127.0.0.1:8000/docs (La forma generica: <url>/docs)<br>
+Documentacion con Redocly: http://127.0.0.1:8000/redoc (La forma generica: <url>/redoc)<br>
 </p>
