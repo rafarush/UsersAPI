@@ -3,7 +3,7 @@
 
 
 <h3>Guia para hcaer APIs con FastApi</h3>
-<p>Se importa clase FastApi:</p><code>from fastapi import FastAPI<p><br>Se instancia la clase FastApi:</p>app = FastAPI()</code>
+<p>Se importa clase FastApi:</p><code>from fastapi import FastAPI<p><br><br>Se instancia la clase FastApi:</p>app = FastAPI()</code>
   
 <p><br><br>
 Se inicia server con: uvicorn main:app --reload
